@@ -1,0 +1,13 @@
+{
+  "description": "Legendary MakNFT",
+  "external_url": "https://github.com/Timur-Makarov",
+  "image": "ipfs://QmcP5q4PtEAYs8sneoWrvrNnEhipynUECjF3zgwTV41Mv6",
+  "weight": 2,
+  "name": "Legendary MakNFT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

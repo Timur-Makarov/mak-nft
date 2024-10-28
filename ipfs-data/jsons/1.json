@@ -1,0 +1,12 @@
+{
+  "description": "Rare MakNFT",
+  "external_url": "https://github.com/Timur-Makarov",
+  "image": "ipfs://QmdzBgvMp7T9nHocUcJXcWRpcxfVRLkHRChjpg1vvuaRrP",
+  "name": "Rare MakNFT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}
